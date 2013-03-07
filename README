@@ -1,4 +1,4 @@
-ciUI is a Block for Cinder (version 0.8.4) that easily allows for the creation of user interfaces aka GUIs. ciUI also takes care of varible binding, widget layout, spacing, font loading, saving and loading settings, and callbacks. ciUI can be easily customized (UI themes, colors, font & widget sizes, padding, layout, etc).
+ciUI is a Block for Cinder that easily allows for the creation of user interfaces aka GUIs. ciUI also takes care of varible binding, widget layout, spacing, font loading, saving and loading settings, and callbacks. ciUI can be easily customized (UI themes, colors, font & widget sizes, padding, layout, etc).
 
 Read more about how it came to be here: http://www.syedrezaali.com/blog/?p=2366
 
@@ -136,3 +136,4 @@ gui->addWidgetDown(new ciUISlider(304, 16, 0.0, 1.0, &bgValue, "BACKGROUND"));
 Notes: So you can see adding other kinds of widgets and reacting to them are done in a very similar manner. Explore the examples to check out how to access some of the more complex widgets, I hope you'll see thats its pretty intuitive. I tried my best to limit the amount of code that needs to be written, however I kept it open enough so people can be expressive with it. 
 
 If you lost your way somewhere in the tutorial, don't worry the whole project is included in the examples in the ciUI Block folder!
+
