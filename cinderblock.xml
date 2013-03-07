@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<cinder>
+<block
+	name="ciUI"
+	id="com.syedrezaali.ciUI"
+	author="Reza Ali"
+	summary="ciUI allows for the easy creation of user interfaces aka GUIs. ciUI also takes care of varible binding, widget layout, spacing, font loading, saving and loading settings, and callbacks. ciUI can be easily customized."
+	git="git@github.com:rezaali/ciUI.git"
+	url="https://github.com/rezaali/ciUI"
+	>
+	<sourcePattern>src/*.cpp</sourcePattern>
+	<headerPattern>src/*.h</headerPattern>
+</block>
+</cinder>
