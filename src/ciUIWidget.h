@@ -320,7 +320,7 @@ public:
 	
 	virtual void setDrawOutlineHighLight(bool _draw_outline_hightlight)
 	{
-		draw_outline_highlight = draw_outline_highlight; 
+		draw_outline_highlight = _draw_outline_highlight; 
 	}
 	
 	virtual void setColorBack(ColorA _color_back)
